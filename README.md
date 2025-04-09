@@ -2,15 +2,17 @@
   <picture>
     <source
       width="380px"
-      media="(prefers-color-scheme: dark), (html[data-dark-theme])"
+      media="(prefers-color-scheme: dark)"
       srcset="media/TwitSky logo dark.svg"
     >
     <img
       width="380px"
       src="media/TwitSky logo light.svg"
+      alt="TwitSky Logo"
     >
   </picture>
 </p>
+
 
 ## About
 
