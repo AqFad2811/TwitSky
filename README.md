@@ -2,7 +2,7 @@
   <picture>
     <source
       width="380px"
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: dark), (html[data-dark-theme])"
       srcset="media/TwitSky logo dark.svg"
     >
     <img
