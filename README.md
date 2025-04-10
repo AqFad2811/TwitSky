@@ -16,7 +16,7 @@
 
 ## About
 
-Want to stop visiting X/Twiiter everytime you open your browser? TwitSky let's you redirect X/Twitter URL's into Bluesky.
+Want to stop visiting X/Twitter everytime you open your browser? TwitSky let's you redirect X/Twitter URL's into Bluesky.
 
 ## Install
 
